@@ -2,7 +2,7 @@
 ![Full Stack Web & Android Developer | MERN Stack | Computer Science Graduate](https://media.licdn.com/dms/image/v2/D4E16AQE328FDvMJM_g/profile-displaybackgroundimage-shrink_350_1400/B4EZi9beGmGUAY-/0/1755524775140?e=1768435200&v=beta&t=w-THsRILtr7oqT-sbWlw_z_WfErCxY31rqkiiybEhnA)
 
 # 👋 Hello, I’m Siratim Mustakim Chowdhury
-### Full Stack Web & Android Developer | MERN Stack Enthusiast ## 👀 Profile Views
+### Full Stack Web & Android Developer | MERN Stack Enthusiast
 
 
   ![Profile Views](https://img.shields.io/badge/Views-1234-blue)
