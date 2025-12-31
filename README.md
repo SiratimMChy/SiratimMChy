@@ -1,11 +1,15 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQE328FDvMJM_g/profile-displaybackgroundimage-shrink_350_1400/B4EZi9beGmGUAY-/0/1755524775140?e=1768435200&v=beta&t=w-THsRILtr7oqT-sbWlw_z_WfErCxY31rqkiiybEhnA" alt="Siratim's Banner" width="100%" />
 </p>
-
 <h1 align="center">👋 Hello, I’m Siratim Mustakim Chowdhury</h1>
+
 <p align="center">
-  <strong>Full Stack Web & Android Developer | MERN Stack Enthusiast</strong>
+  <strong>
+    Full Stack Web & Android Developer | MERN Stack Specialist <br/>
+    Java & JavaScript Developer | Computer Science Engineer | AI/ML Enthusiast
+  </strong>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SiratimMChy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
