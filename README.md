@@ -65,7 +65,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiratimMChy&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=false" height="190px" alt="Overall Stats" />
 </div>
 <div align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=radical&hide_border=false" height="200px" alt="Top Languages" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=radical&hide_border=false" height="190px" alt="Top Languages" />
 </div>
 
 
