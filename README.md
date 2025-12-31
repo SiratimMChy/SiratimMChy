@@ -64,12 +64,17 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=radical&hide_border=false" height="190px" alt="GitHub Streak" />
- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiratimMChy&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=false" height="190px" alt="Overall Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=radical&hide_border=true" alt="SiratimMChy's Streak" height="190px" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiratimMChy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="SiratimMChy's Stats" height="190px" />
 </div>
+
+<br/>
+
 <div align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=radical&hide_border=false" height="190px" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="SiratimMChy's Languages" height="190px" />
 </div>
 
 
