@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE328FDvMJM_g/profile-displaybackgroundimage-shrink_350_1400/B4EZi9beGmGUAY-/0/1755524775140?e=1768435200&v=beta&t=w-THsRILtr7oqT-sbWlw_z_WfErCxY31rqkiiybEhnA" alt="Siratim's Banner" width="100%" />
+  <img
+    src="https://media.licdn.com/dms/image/v2/D5616AQEp-Vj3N1yIGw/profile-displaybackgroundimage-shrink_350_1400/B56Zt2KuCGLAAY-/0/1767214086617?e=1769040000&v=beta&t=f8p2Poaa_0Xokr4eTMZIfHpnXncPfzPElux7_6PBhrk"
+    alt="Siratim's Banner"
+    width="100%"
+  />
 </p>
 
 <p align="center">
