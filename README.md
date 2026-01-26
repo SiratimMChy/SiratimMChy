@@ -27,10 +27,9 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 ## ⚡ Current Activities
 * 🚀 Exploring **Next.js** and advanced React patterns
-* 🗺️Developing PawMart, a full-stack MERN-based pet adoption and supply marketplace
+* 🛍️ Building Orvella, a premium full-stack fashion e-commerce platform with modern admin and user experiences
 * 📱 Enhancing **mobile app performance** with Firebase and SQL
 * ⚙️ Designing and consuming RESTful APIs using Node.js and Express.js
-
 ---
 
 ## 💻 Technologies I Work With
