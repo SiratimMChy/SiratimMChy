@@ -1,9 +1,10 @@
 <p align="center">
-  <img
-    src="https://media.licdn.com/dms/image/v2/D5616AQEp-Vj3N1yIGw/profile-displaybackgroundimage-shrink_350_1400/B56Zt2KuCGLAAY-/0/1767214086617?e=1769040000&v=beta&t=f8p2Poaa_0Xokr4eTMZIfHpnXncPfzPElux7_6PBhrk"
-    alt="Siratim's Banner"
-    width="100%"
-  />
+<img
+  src="https://github.com/user-attachments/assets/e0642fdd-7350-4de4-b555-1c0e7d594e69"
+  alt="Siratim's Banner"
+  width="100%"
+/>
+
 </p>
 
 <p align="center">
