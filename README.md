@@ -55,22 +55,23 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=radical&hide_border=true" alt="SiratimMChy's Streak" height="190px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiratimMChy&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=false" height="190px" alt="Overall Stats" />
+
+<!-- Top Row: Stats + Streak -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/><br/>
+
+<!-- Bottom Row: Languages + Activity Time -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="SiratimMChy's Languages" height="190px" />
-</div>
-
-
-<div align="center">
 
 
 ## 🔗 Connect with Me
