@@ -16,9 +16,11 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiratimMChy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SiratimMChy&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
