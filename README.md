@@ -60,16 +60,16 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <div align="center">
 
 <!-- Top Row: Stats + Streak -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/><br/>
 
 <!-- Bottom Row: Languages + Activity Time -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
 
 </div>
 
