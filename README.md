@@ -30,10 +30,11 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 ---
 
 ## ⚡ Current Activities
-* 🚀 Exploring **Next.js** and advanced React patterns
-* 🛍️ Building Orvella, a premium full-stack fashion e-commerce platform with modern admin and user experiences
-* 📱 Enhancing **mobile app performance** with Firebase and SQL
-* ⚙️ Designing and consuming RESTful APIs using Node.js and Express.js
+
+* 🚀 Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
+* 🤖 Exploring **AI-driven web development** to build smarter applications
+* 🌍 Building **Navora – AI-Powered Travel Booking Platform** using modern full-stack technologies
+* ⚙️ Designing and maintaining **scalable RESTful APIs** with Node.js and Express.js
 ---
 
 ## 💻 Technologies I Work With
