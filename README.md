@@ -1,11 +1,7 @@
 <p align="center">
-<img
-  src="https://github.com/user-attachments/assets/de281d4e-84dc-479b-8bd8-5e2a298ba24e"
-  alt="Siratim's Banner"
-  width="100%"
-/>
 
-
+   <img src="https://raw.githubusercontent.com/SiratimMChy/SiratimMChy/main/cover1.png" alt="Siratim Banner" width="100%" />
+   
 </p>
 
 <p align="center">
