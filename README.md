@@ -73,7 +73,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 </div>
 
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siratim-mustakim-chowdhury/)
