@@ -27,11 +27,11 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 ## ⚡ Current Activities
 
-* 🚀 Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
-* 🎬 Exploring modern web animations using **GSAP**, **Framer Motion**, and interactive UI transitions
-* 🤖 Exploring **AI-driven web development** to build smarter applications
-* ⚙️ Designing and maintaining **scalable RESTful APIs** with Node.js and Express.js
-* 🎨 Improving skills in **responsive UI/UX design**, smooth micro-interactions, and performance optimization
+*  Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
+*  Exploring modern web animations using **GSAP**, **Framer Motion**, and interactive UI transitions
+*  Exploring **AI-driven web development** to build smarter applications
+*  Designing and maintaining **scalable RESTful APIs** with Node.js and Express.js
+*  Improving skills in **responsive UI/UX design**, smooth micro-interactions, and performance optimization
 ---
 
 ## 💻 Technologies I Work With
