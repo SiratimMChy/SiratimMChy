@@ -20,12 +20,12 @@
 
 ---
 
-## 📝 About Me
+##  About Me
 I am a Full Stack Web & Android Developer specializing in **MERN stack development**. I build **efficient, scalable, and user-friendly applications** with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems.
 
 ---
 
-## ⚡ Current Activities
+##  Current Activities
 
 *  Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
 *  Exploring modern web animations using **GSAP**, **Framer Motion**, and interactive UI transitions
@@ -34,7 +34,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 *  Improving skills in **responsive UI/UX design**, smooth micro-interactions, and performance optimization
 ---
 
-## 💻 Technologies I Work With
+##  Technologies I Work With
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 </div>
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siratim-mustakim-chowdhury/)
