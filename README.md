@@ -23,7 +23,6 @@
 ##  About Me
 I am a Full Stack Web & Android Developer specializing in **MERN stack development**. I build **efficient, scalable, and user-friendly applications** with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems.
 
----
 
 ##  Current Activities
 
@@ -32,7 +31,6 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 *  Exploring **AI-driven web development** to build smarter applications
 *  Designing and maintaining **scalable RESTful APIs** with Node.js and Express.js
 *  Improving skills in **responsive UI/UX design**, smooth micro-interactions, and performance optimization
----
 
 ##  Technologies I Work With
 
@@ -62,7 +60,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <!-- Top Row: Stats + Streak -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1&v=2" />
+<img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1" />
 
 <br/><br/>
 
@@ -73,7 +71,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 </div>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -81,7 +79,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 </div>
 
----
+
 
 ##  Connect with Me
 <div align="center">
