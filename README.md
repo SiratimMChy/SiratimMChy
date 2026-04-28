@@ -75,7 +75,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiratimMChy&theme=tokyo-night&hide_border=true&area=true&&cache_seconds=1800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiratimMChy&theme=tokyo-night&hide_border=true&area=true&&v=2" />
 
 </div>
 
