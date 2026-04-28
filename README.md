@@ -60,7 +60,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <!-- Top Row: Stats + Streak -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800&v=2" />
+<img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/><br/>
 
