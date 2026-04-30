@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>
-    Full Stack Web & Android Developer | MERN Stack Specialist <br/>
-    Java & JavaScript Developer | CS Engineer | Nextjs Developer | AI/ML Enthusiast
+    Full Stack Web Developer | Frontend Developer | MERN Stack Specialist <br/>
+    React Developer | Nextjs Developer | Java & JavaScript Developer <br/> CS Engineer | Android Developer | AI/ML Enthusiast
   </strong>
 </p>
 
