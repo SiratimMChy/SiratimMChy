@@ -5,7 +5,7 @@
 <p align="center">
   <strong>
     Full Stack Web Developer | Frontend Developer | MERN Stack Specialist <br/>
-    React Developer | Nextjs Developer | Java & JavaScript Developer <br/> CS Engineer | Android Developer | AI/ML Enthusiast
+    React Developer | Nextjs Developer | Java Developer <br/> CS Engineer | Android Developer | AI/ML Enthusiast
   </strong>
 </p>
 
