@@ -47,7 +47,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 ##  GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=SiratimMChy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&cache_seconds=86400&v=1" />
 <img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117&mode=daily&user_timezone=Asia/Dhaka" />
 
 <br/><br/>
