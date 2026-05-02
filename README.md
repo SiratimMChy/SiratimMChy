@@ -47,8 +47,8 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 ##  GitHub Analytics
 
 <div align="center">
-<img width="100%" src="https://smc-api-iota.vercel.app/card?v=1.0.0" alt="Siratim's GitHub Stats" />
-<img width="100%" src="https://smc-streak-api.vercel.app/streak?v=1.0.0" alt="Siratim's GitHub Streak" />
+<img height="180em"  src="https://smc-api-iota.vercel.app/card?v=1.0.0" alt="Siratim's GitHub Stats" />
+<img height="180em"  src="https://smc-streak-api.vercel.app/streak?v=1.0.0" alt="Siratim's GitHub Streak" />
 
 <br/><br/>
 
