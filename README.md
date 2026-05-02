@@ -48,7 +48,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 <div align="center">
 <img height="180em" src="https://smc-api-iota.vercel.app/card?v=1.0.0" alt="Siratim's GitHub Stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=SiratimMChy&theme=tokyonight&hide_border=true&background=0D1117&mode=daily&user_timezone=Asia/Dhaka&&v=2" />
+<img height="180em" src="https://smc-streak-api.vercel.app/streak?mode=daily&user_timezone=Asia/Dhaka&&v=2" />
 
 <br/><br/>
 
