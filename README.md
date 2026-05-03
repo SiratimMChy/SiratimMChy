@@ -52,7 +52,8 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiratimMChy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&&v=2" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
 </div>
 
 ##  Contribution Graph
