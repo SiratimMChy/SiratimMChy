@@ -44,13 +44,19 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 </div>
 
-##  GitHub Analytics
+## GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
-<img height="180em"  src="https://smc-api-iota.vercel.app/card?v=1.0.0" alt="Siratim's GitHub Stats" />
-<img height="180em"  src="https://smc-streak-api.vercel.app/streak?v=1.0.0" alt="Siratim's GitHub Streak" />
-<img height="180em" src="https://smc-language-api.vercel.app/languages" alt="Siratim's GitHub Languages" />
-<img height="180em" src="https://smc-commit-hours.vercel.app/commits-hour" alt="Siratim's GitHub commits-hour"/>
+
+  <img width="48%" height="180px" src="https://smc-api-iota.vercel.app/card?v=1.0.0" />
+  
+  <img width="48%" height="180px" src="https://smc-streak-api.vercel.app/streak?v=1.0.0" />
+  <img width="48%" height="180px" src="https://smc-language-api.vercel.app/languages" />
+
+  <img width="48%" height="180px" src="https://smc-commit-hours.vercel.app/commits-hour" />
+
 </div>
 
 ##  Contribution Graph
