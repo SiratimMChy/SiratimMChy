@@ -53,7 +53,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <br/><br/>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiratimMChy&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiratimMChy&theme=tokyonight&utcOffset=6&&v=2" />
 </div>
 
 ##  Contribution Graph
