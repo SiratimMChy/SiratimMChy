@@ -50,7 +50,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <img height="180em"  src="https://smc-api-iota.vercel.app/card?v=1.0.0" alt="Siratim's GitHub Stats" />
 <img height="180em"  src="https://smc-streak-api.vercel.app/streak?v=1.0.0" alt="Siratim's GitHub Streak" />
 <img height="180em" src="https://smc-language-api.vercel.app/languages" alt="Siratim's GitHub Languages" />
-<img height="180em" src="https://smc-commit-hours.vercel.app/commits-hour" />
+<img height="180em" src="https://smc-commit-hours.vercel.app/commits-hour" alt="Siratim's GitHub commits-hour"/>
 </div>
 
 ##  Contribution Graph
