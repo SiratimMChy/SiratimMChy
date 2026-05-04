@@ -46,8 +46,6 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
 
   <img  src="https://smc-api-iota.vercel.app/card?v=1.0.0" />
