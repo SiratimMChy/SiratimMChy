@@ -9,9 +9,12 @@
   </strong>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiratimMChy&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SiratimMChy&label=views&color=000000&style=flat"
+    alt="views"
+  />
+</p>
 
 ---
 
