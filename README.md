@@ -57,6 +57,18 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiratimMChy&theme=tokyo-night&hide_border=true&area=true&v=7" />
 </div>
 
+## 🧩 Problem Solving Profiles
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/smc2001)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/smc2001)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/smc2001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/1ZN5vADfRv/)
+
+</div>
+
+
 ##  Connect with Me
 <div align="center">
 
