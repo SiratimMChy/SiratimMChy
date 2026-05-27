@@ -48,7 +48,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
   <img  src="https://smc-streak-api.vercel.app/streak" />
   <br/>
   <img  src="https://smc-language-api.vercel.app/languages" />
-  <img  src="https://smc-commit-hours.vercel.app/commits-hour" />
+  <img  src="https://smc-commit-hours.vercel.app/commits-hour"/>
 
 </div>
 
