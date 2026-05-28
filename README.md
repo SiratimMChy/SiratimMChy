@@ -54,7 +54,7 @@ I am a Full Stack Web & Android Developer specializing in **MERN stack developme
 
 ##  Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiratimMChy&theme=tokyo-night&hide_border=true&area=true&v=5&cache_seconds=0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiratimMChy&theme=tokyo-night&hide_border=true&area=true&cache_seconds=0" />
 </div>
 
 ## 🧩 Problem Solving Profiles
