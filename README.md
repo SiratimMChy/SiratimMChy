@@ -12,7 +12,7 @@
 ---
 
 ##  About Me
-I am a Full Stack Web & Android Developer specializing in **MERN stack development**. I build **efficient, scalable, and user-friendly applications** with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems.
+I am a Full Stack Developer specializing in **MERN stack development**. I build **efficient, scalable, and user-friendly applications** with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems. I am currently seeking an internship or junior developer role to contribute to real-world projects and grow as a **software engineer**.
 
 ##  Current Activities
 * Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
