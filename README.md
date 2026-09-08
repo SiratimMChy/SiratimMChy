@@ -53,6 +53,7 @@ I am a **Full Stack Web Developer** specializing in **MERN stack development**. 
 
 ##  Contribution Graph
 <div align="center">
+   
    <img  src="https://smc-contribution-graph.vercel.app/commits"/>
 </div>
 
