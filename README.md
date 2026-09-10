@@ -53,9 +53,9 @@ I am a **Full Stack Developer** specializing in **MERN stack development**. I bu
 
 ##  Contribution Graph
 <div align="center">
-   
-   <img  src="https://smc-contribution-graph.vercel.app/commits"/>
+   <img  src="https://smc-contribution-graph.vercel.app/commits?v=1"/>
 </div>
+
 
 ## 🧩 Problem Solving Profiles
 
