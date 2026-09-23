@@ -13,11 +13,13 @@
 ##  About Me
 I am a **Full Stack Developer** specializing in **MERN stack development**. I build efficient, scalable, and user-friendly applications with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems. I am currently seeking an **internship** or **junior developer** role to contribute to real-world projects and grow as a **software engineer**.
 
-##  Current Activities
-* Currently learning and improving skills in **Next.js, TypeScript**, and advanced **React architecture**
-* Exploring **AI-driven web development** to build smarter applications
-* Designing and maintaining **scalable RESTful APIs** with Node.js and Express.js
-* Improving skills in **responsive UI/UX design**, smooth micro-interactions, and performance optimization
+## Current Activities
+
+* Continuously learning and improving **Next.js** and **TypeScript** to build modern and maintainable web applications
+* Strengthening **JavaScript** fundamentals and improving **React architecture** for better application structure and scalability
+* Expanding backend development skills with **Node.js, Express.js, and MongoDB**, focusing on building reliable and scalable RESTful APIs
+* Exploring **NestJS** to learn a more structured and scalable approach to backend development
+* Exploring **AI-driven web development** while improving **responsive design, performance, and overall application quality**
 
 ##  Technologies I Work With
 
