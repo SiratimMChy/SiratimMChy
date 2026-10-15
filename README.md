@@ -28,7 +28,7 @@ I am a **Full Stack Developer** specializing in **MERN stack development**. I bu
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 
-<br/><br/>
+<br/>
 
 ### ⚙️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,postman,figma,vscode&perline=10" />
