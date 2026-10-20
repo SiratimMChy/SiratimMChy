@@ -11,7 +11,7 @@
 ---
 
 ##  About Me
-I am a **Full Stack Developer** specializing in **MERN stack development**. I build efficient, scalable, and user-friendly applications with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems. I am currently seeking an **internship** or **junior developer** role to contribute to real-world projects and grow as a **software engineer**.
+I am a **Full Stack Developer** specializing in **MERN stack development**. I build efficient, scalable, and user-friendly applications with a strong foundation in Computer Science. As a **CSE graduate**, I am passionate about clean code, version control, and solving complex architectural problems. I'm always looking for ways to improve my skills through hands-on projects and exploring new technologies. Currently, I'm looking for **internship or junior developer opportunities** where I can contribute, learn from others, and grow as a software engineer.
 
 ## Current Activities
 
