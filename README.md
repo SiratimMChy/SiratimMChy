@@ -15,9 +15,6 @@ I am a **Full Stack Developer** specializing in **MERN stack development**. I bu
 
 ## Current Activities
 
-
-## Current Activities
-
 * Improving my **Next.js** and **TypeScript** skills to build modern and maintainable web applications
 * Strengthening my **JavaScript** fundamentals and **React** architecture to write cleaner code and build scalable applications
 * Building full-stack applications with the **MERN stack**, focusing on backend development, database management, and RESTful APIs
