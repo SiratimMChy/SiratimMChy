@@ -49,7 +49,7 @@ I'm a **Full Stack Developer** specializing in **MERN stack development** with a
 
 <div align="center">
 
-  <img  src="https://smc-api-iota.vercel.app/card?v=1.0.0" />
+  <img  src="https://smc-api-iota.vercel.app/card" />
   <img  src="https://smc-streak-api.vercel.app/streak" />
   <br/>
   <img  src="https://smc-language-api.vercel.app/languages" />
